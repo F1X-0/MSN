@@ -1,0 +1,6 @@
+{
+	"webhook":"https://discord.com/api/webhooks/YourWebHookHere",
+	"port":"25565",
+	"webhook_name":"Minecaft Server with Ngrok",
+	"launch_delay":10
+}
